@@ -34,7 +34,7 @@ public class MethodOverloading{
 
     public static void main(String[] args) {
 
-        System.out.println(formatNumber(50));
+        System.out.println(formatNumber(500));
         System.out.println(formatNumber(89.9934));
         System.out.println(formatNumber("550"));
 
